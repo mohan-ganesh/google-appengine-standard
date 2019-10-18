@@ -3,5 +3,5 @@
    <threadsafe>true</threadsafe>
    <runtime>java8</runtime>  
    <ssl-enabled>true</ssl-enabled>
-   <service>test</service >
+   <service>core</service >
 </appengine-web-app>
